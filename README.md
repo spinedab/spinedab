@@ -26,6 +26,7 @@ Ninguno es un proyecto para un cliente.
 
 ## Contacto
 
+- Portafolio: https://spinedab.github.io/portafolio/
 - Email: dnework.col@gmail.com
 - LinkedIn: [santiago-pineda-149566424](https://www.linkedin.com/in/santiago-pineda-149566424/)
 
